@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Invoice Rapido Support
 
 Need help or have a question? We're here for you.
